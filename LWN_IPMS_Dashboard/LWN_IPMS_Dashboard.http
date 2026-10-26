@@ -1,0 +1,6 @@
+@LWN_IPMS_Dashboard_HostAddress = http://localhost:5136
+
+GET {{LWN_IPMS_Dashboard_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
